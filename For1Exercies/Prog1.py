@@ -1,6 +1,3 @@
-num=int(input("Enter a Number:"))
-
-for i in range(1,11):
-    print(i,"*",num,"=",num*i)
-
-    
+print("Hello world")
+for i in range(1,10):
+    print(i);
